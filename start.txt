@@ -1,1 +1,3 @@
 testcase dummy document
+I am adding new content here, yes. 
+Lots of new content. I am great. I am the best GIT user there is. Wow.
